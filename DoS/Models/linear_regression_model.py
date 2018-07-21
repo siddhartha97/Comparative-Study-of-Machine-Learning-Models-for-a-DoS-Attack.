@@ -36,6 +36,5 @@ class LinRegression:
         self.train_test_split()
         lr = LinearRegression()
         lr.fit(self.x_train, self.y_train)
-        print("Running Model Reg\n")
         predict = lr.predict(self.x_test)
         return r2_score(predict, self.y_test)
