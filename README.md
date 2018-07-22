@@ -1,4 +1,4 @@
-## Probability of a DoS Attack in a Wireless Network
+## DoS Attack in a Wireless Network
 + Contributors : Siddhartha Chowdhuri, Aswin Manoj, Ved Choupane
 
 #### Overview :
