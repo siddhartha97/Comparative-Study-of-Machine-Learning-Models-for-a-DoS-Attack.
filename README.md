@@ -1,4 +1,4 @@
-## DoS Attack in a Wireless Network
+## Comparative Study of Machine Learning Models for a DoS Attack.
 + Contributors : Siddhartha Chowdhuri, Aswin Manoj, Ved Choupane
 
 #### Overview :
